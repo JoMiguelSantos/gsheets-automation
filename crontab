@@ -1,0 +1,1 @@
+example crontab syntax: * * * * * cd /Users/joaosoares/PycharmProjects/untitled/ && ~/PycharmProjects/untitled/venv/bin/python file.py
